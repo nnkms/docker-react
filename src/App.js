@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing GH workflow.
+          Testing code change from Feature branch.
         </p>
         <a
           className="App-link"
